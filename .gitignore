@@ -1,0 +1,5 @@
+data/
+*.joblib
+.ipynb_checkpoints/
+.venv/
+.DS_Store
