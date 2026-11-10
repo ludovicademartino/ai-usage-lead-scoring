@@ -119,7 +119,7 @@ about 30 minutes on a laptop. Tested with scikit-learn 1.6.1.
 ## Authors
 
 - Claudio Bendinelli
-- Ludovica De Martino
+- Ludovica de Martino
 - Cormac O'Sullivan
 
 The data is published by Stack Overflow under the
