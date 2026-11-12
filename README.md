@@ -1,4 +1,4 @@
-# Who Uses AI at Work? Lead Scoring for an AI Coding-Tool Vendor
+# Machine Learning: AI Adoption Prediction
 
 A company selling an AI coding assistant has a list of thousands of developers and
 can't call them all. Using only what is visible on a **public profile or CV**, we
